@@ -7,4 +7,3 @@
  */
 
 echo 'check';
-echo 'added dev';
